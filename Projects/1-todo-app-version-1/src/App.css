@@ -1,0 +1,23 @@
+#head {
+  /* To make the words bold */
+  font-weight: 700;
+  font-size: 45px;
+  margin:10px;
+  margin-bottom:20px;
+}
+
+input{
+  width:100%;
+}
+
+.new-row{
+  margin:10px 5px;
+}
+.tasks-container{
+  text-align: left;
+}
+
+.new-btn{
+  min-width:100px;
+}
+
